@@ -2,10 +2,10 @@
 Contributors: Md Rasel Khan
 Tags: woocommerce, states, cities, local government, dropdown, city, select, dropdown, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities, Bangladesh
 Requires at least: 4.0
-Tested up to: 5.4
-Stable tag: 1.0.3
+Tested up to: 5.9.3
+Stable tag: 1.0
 WC requires at least: 3.6
-WC tested up to: 3.8.1
+WC tested up to: 6.4.1
 License: GPLv2 or later
 License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
 
@@ -31,4 +31,4 @@ PHP version 7.2 or greater
 MySQL version 5.0 or greater
 
 == Changelog ==
-*1.0.3 Added Sectors for Bucharest 
+*1.0 Initial release
