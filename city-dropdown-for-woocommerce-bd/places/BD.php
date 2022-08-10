@@ -84,7 +84,7 @@ $places['BD'] = array(
         "Nasirnagar",
         "Sarail",
     ),
-    'chandpur' => array(
+    'BD-09' => array(
         "Chandpur Sadar",
         "Faridganj",
         "Haim Char",
