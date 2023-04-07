@@ -700,6 +700,14 @@ $places['BD'] = array(
         "Sadarpur",
         "Saltha",
     ),
+    'BD-16' => array(
+        "Feni Sadar",
+        "Daganbhuiyan ",
+        "Chhagalnaiya",
+        "Sonagaz",
+        "Parshuram",
+        "Fulgazi",
+    ),
     'BD-19' => array(
         "Fulchhari",
         "Gaibandha Sadar",
